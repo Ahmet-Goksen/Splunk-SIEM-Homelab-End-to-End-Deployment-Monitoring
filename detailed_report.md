@@ -102,6 +102,8 @@ With data flowing into Splunk, custom Splunk Processing Language (SPL) queries w
     ```
 *   **Output:** A multi-line graph showing the trend of established, reset, and failed connections, providing visibility into network session health.
 
+![Screenshot](screenshots/Complete-dashboard.png)
+
 ## 4. Key Technical Insights & Real-World Application
 *   **Strategic Data Selection:** The choice of performance counters was deliberate. For example, `IO Write Bytes/sec` was included specifically to explore its potential as an indicator for ransomware encryption activity, understanding that while useful, modern ransomware often employs tactics to evade such simple disk I/O detections.
 *   **From Data to Detection:** The dashboards move beyond raw data presentation. The TCP connection graph, for instance, operationalizes a threat detection concept—anomalous connection resets could trigger an investigation for network scanning.
