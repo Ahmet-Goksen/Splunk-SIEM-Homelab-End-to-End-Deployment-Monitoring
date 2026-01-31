@@ -36,4 +36,4 @@ This project involved the complete lifecycle of setting up a SIEM on a single ho
 *   **Threat Detection Logic:** Applying cybersecurity concepts (like anomaly detection) to build specific monitoring use cases.
 
 ---
-**See the full technical implementation report:** [detailed_analysis.md](detailed_analysis.md)
+**See the full technical implementation report:** [detailed_report.md](detailed_report.md)
