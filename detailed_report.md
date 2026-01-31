@@ -54,7 +54,7 @@ To enable behavior-based anomaly detection, Splunk was configured to poll key Wi
     *   `services`
     *   `svchost` (and related instances `svchost#1`, `svchost#2`)
     *   `winlogon`
-*   **Polling Interval:** A standard interval was set to balance data granularity with system load.
+*   **Polling Interval:** 60.
 
 #### **Network Interface & TCPv4 Objects**
 The same configuration workflow was applied to two additional objects critical for network health and threat detection:
