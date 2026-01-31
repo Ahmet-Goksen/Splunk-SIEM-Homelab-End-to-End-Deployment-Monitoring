@@ -8,6 +8,9 @@ This project documents the end-to-end deployment, configuration, and operation o
 
 ### 1.1 Installation
 *   **Software Acquisition:** Splunk Enterprise version 10.2.0 was downloaded directly from the official Splunk website.
+
+![Screenshot](screenshots/Downloading-Splunk-Enterprise.png)
+
 *   **Local Installation:** The installation was performed by executing the `splunk.msi` installer on the Windows host, following the default setup wizard.
 *   **Access:** Following installation, the Splunk Web interface was accessed locally via `http://localhost:8000`.
 *   **Initial Login:** Upon first launch, the Splunk login screen was presented. Access was gained using the administrative credentials defined during the installation process.
