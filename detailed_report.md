@@ -22,6 +22,9 @@ A critical phase involved configuring Splunk to collect relevant security and pe
 To establish foundational security visibility, Splunk was configured to ingest Windows Event Logs.
 1.  From Splunk Home, the **Add Data** link was selected.
 2.  The **Monitor** option was chosen to collect logs directly from the local machine.
+
+![Screenshot](screenshots/Data-Monitor-Setup.png)
+   
 3.  On the *Select Source* page, **Local Event Logs** was selected as the input type.
 4.  Key Event Log Channels for security and system health monitoring were selected:
     *   `Security`
