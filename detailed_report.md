@@ -32,7 +32,7 @@ To establish foundational security visibility, Splunk was configured to ingest W
     *   `Application`
 5.  Input settings were reviewed and applied, assigning the data to the default `main` index.
 
-![Screenshot](screenshots/Data-Monitor-Setup.png)
+![Screenshot](screenshots/Local-event-log-monitoring-configuration.png)
 
 ### 2.2 Windows Performance Monitoring
 To enable behavior-based anomaly detection, Splunk was configured to poll key Windows Performance Counters. This process was repeated for multiple performance objects.
