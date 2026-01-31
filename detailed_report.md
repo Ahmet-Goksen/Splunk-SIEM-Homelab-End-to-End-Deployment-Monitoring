@@ -56,6 +56,8 @@ To enable behavior-based anomaly detection, Splunk was configured to poll key Wi
     *   `winlogon`
 *   **Polling Interval:** 60.
 
+![Screenshot](screenshots/Local-performance-monitoring-configuration.png)
+
 #### **Network Interface & TCPv4 Objects**
 The same configuration workflow was applied to two additional objects critical for network health and threat detection:
 *   **`Network Interface`:** To monitor baseline traffic and detect anomalies (selected counters: `Bytes Sent/sec`, `Bytes Received/sec`).
