@@ -27,7 +27,7 @@ This project involved the complete lifecycle of setting up a SIEM on a single ho
     *   **TCP Connection Health:** Monitored `Connections Established`, `Reset`, and `Failed` to identify potential network reconnaissance activity.
     *   **System Event Severity:** Quantified `Warning`, `Error`, and `Critical` logs to triage system health issues.
 *   **Practical Threat Research:** Investigated the real-world application of I/O monitoring for detecting ransomware encryption activity, understanding its value and limitations in a modern security context.
-
+![Description of the image](./screenshots/Complete dashboard.png) 
 ## Skills Demonstrated
 *   **SIEM Engineering:** End-to-end installation, configuration, and management of a Splunk instance.
 *   **Data Onboarding:** Technical proficiency in configuring inputs for Windows Event Logs and Performance Monitor.
