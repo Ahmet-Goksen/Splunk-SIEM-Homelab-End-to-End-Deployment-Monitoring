@@ -114,7 +114,7 @@ This homelab project resulted in a fully operational Splunk SIEM instance capabl
 
 ## References
 1. Splunk official documentaction (https://help.splunk.com/ja-jp/splunk-it-service-intelligence/content-packs-for-itsi-and-ite/splunk-observability-cloud/3.3/kpi-reference-for-the-content-pack-for-splunk-observability-cloud#deab2bfe_6d00_4a25_b74d_b627a81452cd--ja-jp__KPI_reference_for_the_Content_Pack_for_Splunk_Observability_Cloud) 
-2. The Splunk Common Information Model (CIM)
+2. Crowdtrike guide (https://www.crowdstrike.com/en-au/cybersecurity-101/next-gen-siem/logging-best-practices/)
 
 --
 **Return to the project summary:** [README.md](./README.md)
