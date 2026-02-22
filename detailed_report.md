@@ -112,5 +112,9 @@ With data flowing into Splunk, custom Splunk Processing Language (SPL) queries w
 ## 5. Conclusion
 This homelab project resulted in a fully operational Splunk SIEM instance capable of monitoring key security and performance facets of a Windows host. The process involved hands-on configuration of core data inputs, development of targeted SPL queries, and the creation of dashboards that translate technical telemetry into clear, actionable visual insights. The exercise solidifies foundational skills in SIEM engineering, log analysis, and the practical application of threat detection logic.
 
----
+## References
+1. Splunk official documentaction (https://help.splunk.com/ja-jp/splunk-it-service-intelligence/content-packs-for-itsi-and-ite/splunk-observability-cloud/3.3/kpi-reference-for-the-content-pack-for-splunk-observability-cloud#deab2bfe_6d00_4a25_b74d_b627a81452cd--ja-jp__KPI_reference_for_the_Content_Pack_for_Splunk_Observability_Cloud) 
+2. The Splunk Common Information Model (CIM)
+
+--
 **Return to the project summary:** [README.md](./README.md)
