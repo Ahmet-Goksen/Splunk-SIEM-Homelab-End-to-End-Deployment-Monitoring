@@ -21,7 +21,7 @@ This project involved the complete lifecycle of setting up a SIEM on a single ho
 
 ## Key Achievements & Project Outputs
 *   **Operational SIEM Deployment:** Successfully built a working SIEM environment, going from installer to ingesting and searching data.
-*   **Strategic Data Selection:** Researched and selected high-value Performance Counters for security monitoring (e.g., `IO Write Bytes/sec` for ransomware detection research, TCP counters for network scans).
+*   **Strategic Data Selection:** Researched and selected high-value Performance Counters for security monitoring.
 *   **Actionable Security Dashboards:** Created visualizations that translate logs and metrics into clear insights:
     *   **Network Traffic Analysis:** Tracked inbound/outbound traffic (`Bytes Sent/Received per sec`) to establish a performance baseline.
     *   **TCP Connection Health:** Monitored `Connections Established`, `Reset`, and `Failed` to identify potential network reconnaissance activity.
